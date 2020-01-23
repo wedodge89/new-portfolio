@@ -1208,7 +1208,6 @@ body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
   .resumeImages{
     height: 100%;
     width: 100%;
-    transform: translate(0px, 600px);
   }
 }
 
