@@ -50,10 +50,15 @@ a:hover, a:active, a:focus {
   text-decoration: none !important;
 }
 
-/* .thingsIKnow {
+.thingsIKnow {
   height: 32px !important;
   width: 32px !important;
-} */
+}
+
+.languageIcons {
+  height: 32px;
+  width: 32px;
+}
 
 p {
   margin-bottom: 1.5em;
